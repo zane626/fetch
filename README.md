@@ -2,7 +2,7 @@
 基于axios封装的业务请求包
 
 ```js
-import {Fetch, Method} from 'z-fetch'
+import {Fetch, Method} from '@zane/fetch'
 const fetch = new Fetch('http://api.xxx.com')
 export class Interface {
   getData (params) {

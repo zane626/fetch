@@ -1,5 +1,5 @@
 {
-  "name": "z-fetch",
+  "name": "zz-fetch",
   "version": "1.0.0",
   "description": "基于axios封装的请求包",
   "main": "index.js",
